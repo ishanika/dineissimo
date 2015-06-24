@@ -68,5 +68,7 @@
     "com.telerik.mobiletesting": {
       "IOS_APP_URL": ""
     }
-  }
+  },
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.Dineissimo"
 }
